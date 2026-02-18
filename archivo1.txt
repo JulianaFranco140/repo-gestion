@@ -1,1 +1,5 @@
 Hola, yo soy Juliana Franco Alzate, este es mi primer push en clase de configuración
+
+Cambio introducido desde github en la línea 3
+
+Cambio 2 desde github
