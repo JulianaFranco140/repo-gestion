@@ -1,4 +1,5 @@
 Hola, yo soy Juliana Franco Alzate, este es mi primer push en clase de configuración
 Cambios desde local con nano nombredearchivo
-
+Cambio introducido desde github en la línea 3
+Cambio 2 desde github
 
